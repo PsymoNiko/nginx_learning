@@ -2,7 +2,6 @@
 
 ## Want to learn how to build this?
 
-Check out the [tutorial](https://testdriven.io/dockerizing-django-with-postgres-gunicorn-and-nginx).
 
 ## Want to use this project?
 
